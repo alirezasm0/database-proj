@@ -1,0 +1,1 @@
+select Author.Aname from Author

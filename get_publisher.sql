@@ -1,0 +1,1 @@
+select Publisher.Pname from Publisher
